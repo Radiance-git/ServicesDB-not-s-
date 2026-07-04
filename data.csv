@@ -1,0 +1,623 @@
+name_of_site,url,org_code
+استانداری کرمان,https://gov.kr.ir/,استانداری کرمان
+املاک و اسکان,https://amlak.mrud.ir/,وزارت راه و شهرسازی
+بیمه سلامت,https://ihio.gov.ir,سازمان بیمه سلامت ایران
+پلیس (سخا),https://sakha.epolice.ir,فراجا
+پنجره ملی دولت هوشمند,https://my.gov.ir,مرکز ملی فضای مجازی / پنجره ملی دولت هوشمند
+تامین اجتماعی,https://tamin.ir/,سازمان تامین اجتماعی
+ثبت احوال,https://sahim.sabteahval.ir/,سازمان ثبت احوال کشور
+خدمات قضایی,https://my.adliran.ir/,قوه قضاییه
+درگاه مجوزها,https://mojavez.ir,وزارت امور اقتصادی و دارایی (درگاه مجوزها)
+سامانه جامع تجارت,https://ntsw.ir/,سازمان توسعه تجارت ایران
+سامانه حمایتی,https://mcls.gov.ir,وزارت تعاون، کار و رفاه اجتماعی
+ستاد انتخابات,https://keshvar.moi.ir,وزارت کشور
+شبکه ملی اعتبار (شما),https://shoma.sfara.ir/,بانک مرکزی جمهوری اسلامی ایران (شبکه ملی اعتبار)
+کارت سوخت,https://fcs.niopdc.ir,شرکت ملی پخش فرآورده‌های نفتی ایران
+کالابرگ,https://mcls.gov.ir,وزارت تعاون، کار و رفاه اجتماعی
+پورتال آموزش ایمیدرو حقیقی,https://idea.imidro.gov.ir/IdeaPortal/ISSO/1,سازمان توسعه و نوسازی معادن و صنایع معدنی ایران (ایمیدرو)
+پنجره واحد بانک سپه,https://my.banksepah.ir/sepah-sso,بانک سپه
+پنجره واحد بانک ملی ایران,https://gov.bmi.ir,بانک ملی ایران
+پنجره واحد صنایع کوچک حقوقی,https://sso.isipo.ir/GovLogin/Company,سازمان صنایع کوچک و شهرک‌های صنعتی ایران
+پنجره واحد صنایع کوچک حقیقی,https://sso.isipo.ir/gov/loginSSO,سازمان صنایع کوچک و شهرک‌های صنعتی ایران
+پنجره واحد تجارت الکترونیکی حقوقی,https://sw.ecommerce.gov.ir/gov/legal,مرکز توسعه تجارت الکترونیکی
+پنجره واحد تجارت الکترونیکی حقیقی,https://sw.ecommerce.gov.ir/gov/personal,مرکز توسعه تجارت الکترونیکی
+پنجره واحد راه و شهرسازی حقوقی,https://sso2.mrud.ir/login/my.mrud.ir/M55smh111D768BbR/1,وزارت راه و شهرسازی
+پنجره واحد راه و شهرسازی حقیقی,https://sso2.mrud.ir/login/my.mrud.ir/M55smh111D768BbR/0,وزارت راه و شهرسازی
+صندوق بیمه اجتماعی کشاورزان روستائیان و عشایر,https://eservices.roostaa.ir/#/servicedesk,صندوق بیمه اجتماعی کشاورزان، روستائیان و عشایر
+پنجره واحد مرکز آمار ایران,https://sso.sci.org.ir/mygov-login?utype=1,مرکز آمار ایران
+پنجره واحد مرکز آمار ایران حقوقی,https://sso.sci.org.ir/mygov-login?utype=2,مرکز آمار ایران
+پورتال آموزش ایمیدرو حقوقی,https://idea.imidro.gov.ir/IdeaPortal/ISSO/2,سازمان توسعه و نوسازی معادن و صنایع معدنی ایران (ایمیدرو)
+پنجره واحد وزارت کشاورزی حقیقی,https://sso.maj.ir/haghighi.aspx,وزارت جهاد کشاورزی
+سامانه الکترونیکی طرح پرواز,https://efpl.airport.ir/login/ssologin.aspx,شرکت فرودگاه‌های کشور
+سامانه تشخیص صلاحیت شرکت‌های آماری حقوقی,https://statcnslt.sci.org.ir/account/loginclient?utype=2,مرکز آمار ایران
+سامانه ثبت قرارداد اجاره,https://asanmadrak.ir/sso,وزارت راه و شهرسازی (اجاره‌نامه)
+سامانه دادما,https://dad.mefa.ir/loginsso,وزارت امور اقتصادی و دارایی
+سامانه شهرداری یاسوج,https://urban.yasujct.com,شهرداری یاسوج
+صندوق اعتباری هنر,https://profile.honarcredit.ir/Login/SSO,صندوق اعتباری هنر
+صندوق ضمانت سرمایه گذاری صنایع کوچک حقوقی,https://zemanat.sif.ir/ssologin/legal,صندوق ضمانت سرمایه‌گذاری صنایع کوچک
+صندوق ضمانت سرمایه گذاری صنایع کوچک حقیقی,https://zemanat.sif.ir/ssologin/real,صندوق ضمانت سرمایه‌گذاری صنایع کوچک
+اتحادیه سازمان های حمل و نقل همگانی کشور,https://my.upto.ir/Home/SSOLOGIN,اتحادیه سازمان‌های حمل و نقل همگانی کشور
+استانداری گلستان,http://eservices.golestanp.ir/Frm/governmentLogin.php,استانداری گلستان
+استحقاق سنجی بیمه سلامت,https://eligibility.ihio.gov.ir/ssoitoauth,سازمان بیمه سلامت ایران
+ایمیل ملی ایران حقوقی,https://accounts.iran.ir/oauth-legal,شرکت ارتباطات زیرساخت (ایمیل ملی)
+ایمیل ملی ایران حقیقی,https://accounts.iran.ir/oauth,شرکت ارتباطات زیرساخت (ایمیل ملی)
+بنیاد شهید و امور ایثارگران,https://login.isaar.ir/sso/myiran/login,بنیاد شهید و امور ایثارگران
+بنیاد ملی علم ایران,https://rtms.insf.org/SsoRedirect.php,بنیاد ملی علم ایران
+بنیاد ملی نخبگان,https://sso.bmn.ir/Member/MyGovRedirect,بنیاد ملی نخبگان
+بنیاد ملی نخبگان حقوقی,https://sso.bmn.ir/Member/MyGOVCMPRedirect,بنیاد ملی نخبگان
+پژوهشگاه ارتباطات و فناوری اطلاعات,https://egov.itrc.ac.ir/sso/index.php,پژوهشگاه ارتباطات و فناوری اطلاعات
+پژوهشگاه ارتباطات و فناوری اطلاعات حقوقی,https://egov.itrc.ac.ir/sso/index2.php,پژوهشگاه ارتباطات و فناوری اطلاعات
+پژوهشگاه صنعت نفت,https://portal.ripi.ir/Account/Login/ExternalLogin,پژوهشگاه صنعت نفت
+پلیس راهنمایی و رانندگی راهور,https://rahvar120.ir/,پلیس راهور فراجا
+صندوق حمایت از تحقیقات صنایع پیشرفته حقوقی,https://portal.airdfh.ir/auth/login,صندوق حمایت از تحقیقات و توسعه صنایع پیشرفته
+صندوق حمایت از تحقیقات صنایع پیشرفته حقیقی,http://portal-api.airdfh.ir/NewCsm/v1/SSOAuthorization/individual-persons/signin,صندوق حمایت از تحقیقات و توسعه صنایع پیشرفته
+صندوق ضمانت صادرات حقوقی,https://eservices.egfi.org/auth/sso/gov/legal,صندوق ضمانت صادرات ایران
+صندوق ضمانت صادرات حقیقی,https://eservices.egfi.org/auth/sso/gov,صندوق ضمانت صادرات ایران
+پنجره واحد بانک صنعت و معدن,https://services.bim.ir/lcontract/Home/Login,بانک صنعت و معدن
+پنجره واحد پست بانک,https://www.postbank.ir/SSO,پست بانک ایران
+پنجره واحد جهاد دانشگاهی,https://swapp.my.acecr.ac.ir/login,جهاد دانشگاهی
+پنجره واحد استانداری گیلان,https://my.gilan.ir/plugin/myGov/authentication.php,استانداری گیلان
+پنجره واحد خدمات اصناف کشور,https://panjarevahed.iranianasnaf.ir/,اتاق اصناف ایران
+پنجره واحد بیمه مرکزی ایران,https://my.centinsur.ir,بیمه مرکزی جمهوری اسلامی ایران
+پنجره واحد سازمان ملی بهره‌وری ایران,https://sso.npo.gov.ir/npo/authentication/authorize,سازمان ملی بهره‌وری ایران
+پنجره واحد وزارت امور اقتصادی و دارایی,https://sso.mefa.ir/auth/realms/sso/broker/oidc/endpoint,وزارت امور اقتصادی و دارایی
+پنجره واحد وزارت امور اقتصادی و دارایی حقوقی,https://sso.mefa.ir/auth/realms/sso/broker/oidc-legal/endpoint,وزارت امور اقتصادی و دارایی
+پنجره واحد خدمات دانشگاهی,https://usw.msrt.ir/gov/login,وزارت علوم، تحقیقات و فناوری
+پنجره واحد بانک رفاه کارگران,https://panjareh.rb24.ir/,بانک رفاه کارگران
+پنجره واحد سازمان بورس و اوراق بهادار,https://sso.seo.ir/,سازمان بورس و اوراق بهادار
+پنجره واحد سازمان خصوصی سازی حقیقی,https://sso.ipo.ir/MyIran/RouteHaghighi,سازمان خصوصی‌سازی کشور
+پنجره واحد راهداری و حمل و نقل جاده‌ای حقوقی,http://khedmat.rmto.ir/api/1.0/rmto/nlp/auth/legal-sso,سازمان راهداری و حمل و نقل جاده‌ای
+پنجره واحد راهداری و حمل و نقل جاده‌ای حقیقی,http://khedmat.rmto.ir/api/1.0/rmto/nlp/auth/sso,سازمان راهداری و حمل و نقل جاده‌ای
+پنجره واحد سازمان هدفمندسازی یارانه‌ها,https://simin.hadafmandi.ir/api/callback,سازمان هدفمندسازی یارانه‌ها
+پنجره واحد سازمان هواپیمایی کشوری حقوقی,https://my.cao.ir/external-idp/my-gov-sso-legal/oidc-redirect,سازمان هواپیمایی کشوری
+پنجره واحد سازمان هواپیمایی کشوری حقیقی,https://my.cao.ir/external-idp/my-gov-sso/oidc-login,سازمان هواپیمایی کشوری
+پنجره واحد شرکت عمران شهرهای جدید حقوقی,https://mysso.ntdc.ir/MyIran/RouteHoghooghi,شرکت مادرتخصصی عمران شهرهای جدید
+پنجره واحد شرکت عمران شهرهای جدید حقیقی,https://mysso.ntdc.ir/MyIran/RouteHaghighi,شرکت مادرتخصصی عمران شهرهای جدید
+پنجره واحد شرکت ملی پخش فرآورده‌های نفتی,https://apigateway.niopdc.ir/api/sso/real,شرکت ملی پخش فرآورده‌های نفتی ایران
+پنجره واحد شرکت ملی صنایع پتروشیمی,https://egovsso.nipc.ir/MyIran/RouteHoghooghi,شرکت ملی صنایع پتروشیمی
+پنجره واحد خدمات فراجا,https://sakha.epolice.ir/portal/gov/login,فراجا
+مرکز تحقیقات راه مسکن و شهرسازی,https://my.bhrc.ac.ir/login-client,مرکز تحقیقات راه، مسکن و شهرسازی
+وزارت تعاون کار و رفاه اجتماعی حقیقی,https://sso.mcls.gov.ir/auth/realms/sso/broker/oidc/endpoint,وزارت تعاون، کار و رفاه اجتماعی
+وزارت میراث فرهنگی گردشگری و صنایع دستی حقوقی,https://egovsso.mcth.ir/MyIran/RouteHoghooghi,وزارت میراث فرهنگی، گردشگری و صنایع دستی
+وزارت میراث فرهنگی گردشگری و صنایع دستی حقیقی,https://egovsso.mcth.ir/MyIran/RouteHaghighi,وزارت میراث فرهنگی، گردشگری و صنایع دستی
+پنجره واحد وزارت نیرو حقیقی,https://my.moe.gov.ir/real/redirect_url,وزارت نیرو
+هما حقیقی,https://sso.iranair.com/auth/realms/sso/broker/oidc/endpoint,شرکت هواپیمایی جمهوری اسلامی ایران (هما)
+هما حقوقی,https://sso.iranair.com/auth/realms/sso/broker/oidc-legal/endpoint,شرکت هواپیمایی جمهوری اسلامی ایران (هما)
+سازمان بنادر و دریانوردی حقوقی,https://iam.pmo.ir/external-idp/my-gov-sso-legal/oidc-redirect,سازمان بنادر و دریانوردی
+سازمان بنادر و دریانوردی حقیقی,https://sp.pmo.ir/External/Challenge,سازمان بنادر و دریانوردی
+سازمان بیمه سلامت ایران,https://sso.ihio.gov.ir/callback,سازمان بیمه سلامت ایران
+سازمان حفاظت محیط زیست حقوقی,https://iranemp.ir/mygov?islegal=1,سازمان حفاظت محیط زیست
+سازمان حفاظت محیط زیست حقیقی,https://iranemp.ir/mygov?islegal=0,سازمان حفاظت محیط زیست
+سازمان غذا و دارو,https://my.fda.gov.ir/dargah/gov-real,سازمان غذا و دارو
+سازمان غذا و دارو حقوقی,https://my.fda.gov.ir/dargah/gov-legal,سازمان غذا و دارو
+شرکت ملی گاز,http://my.nigc.ir/sso,شرکت ملی گاز ایران
+شرکت ملی پالایش و پخش فرآورده‌های نفتی,https://my.niordc.ir/shahkar/callback,شرکت ملی پالایش و پخش فرآورده‌های نفتی
+معاونت علمی و اقتصاد دانش بنیان حقوقی,https://sso.isti.ir/Member/MyGOVCMPLogin,معاونت علمی و فناوری ریاست جمهوری
+وزارت بهداشت درمان و آموزش پزشکی,https://swapp.behdasht.gov.ir/login,وزارت بهداشت، درمان و آموزش پزشکی
+وزارت بهداشت درمان و آموزش پزشکی حقوقی,https://swapp.behdasht.gov.ir/login,وزارت بهداشت، درمان و آموزش پزشکی
+وزارت نفت,https://egov.mop.ir/redirecturlsso.aspx,وزارت نفت
+وزارت نفت حقوقی,https://legalegov.mop.ir,وزارت نفت
+معاونت علمی و اقتصاد دانش بنیان حقیقی,https://sso.isti.ir/Member/MyGOVLogin,معاونت علمی و فناوری ریاست جمهوری
+سازمان اداری و استخدامی کشور,https://swapp.edolat.ir/api/auth/callback/ciam,سازمان اداری و استخدامی کشور
+سازمان اسناد و کتابخانه ملی ایران,https://service.nlai.ir,سازمان اسناد و کتابخانه ملی ایران
+سازمان انتقال خون,https://ekhedmat.ibto.ir/api/sso,سازمان انتقال خون ایران
+سازمان بهزیستی کشور حقوقی,https://sso.behzisti.ir/auth/realms/sso/broker/oidc-legal/endpoint,معاونت علمی و فناوری ریاست جمهوری
+سازمان بهزیستی کشور حقیقی,https://sso.behzisti.ir/auth/realms/sso/broker/oidc/endpoint,معاونت علمی و فناوری ریاست جمهوری
+سازمان حج و زیارت,https://my.haj.ir/from-sso-gov,سازمان حج و زیارت
+سازمان سنجش آموزش کشور,https://services.sanjesh.org/login,سازمان سنجش آموزش کشور
+سازمان نظام پزشکی کشور,https://identity.irimc.org/govsso/,سازمان نظام پزشکی کشور
+وزارت ارتباطات و فناوری اطلاعات حقوقی,https://www.ict.gov.ir/fa/ssoredirecturllegal,وزارت ارتباطات و فناوری اطلاعات
+وزارت ارتباطات و فناوری اطلاعات حقیقی,https://www.ict.gov.ir/fa/ssoredirecturlnatural,وزارت ارتباطات و فناوری اطلاعات
+سرمایه گذاری خارجی حقوقی,https://iisw.ir/api/1.0/opportunity/nlp/auth/legal-sso-redirect-url,سازمان سرمایه‌گذاری خارجی
+سرمایه گذاری خارجی حقیقی,https://iisw.ir/api/1.0/opportunity/nlp/auth/sso-redirect-url,سازمان سرمایه‌گذاری خارجی
+نمایشگاه‌های بین المللی ایران,https://sso.iranfair.com/personredirect,شرکت سهامی نمایشگاه‌های بین‌المللی ایران
+نمایشگاه‌های بین المللی ایران حقوقی,https://sso.iranfair.com/hoghoghi,شرکت سهامی نمایشگاه‌های بین‌المللی ایران
+سازمان مناطق آزاد,https://sso.freezones.ir/Member/MyGovLoginRedirect,سازمان مناطق آزاد
+وزارت دادگستری,https://moj.gov.ir/fa/page/39/,وزارت دادگستری
+وزارت علوم تحقیقات و فناوری,https://sso.msrt.ir/ApiContainer.SSO.RCL1/External/CallBack,وزارت علوم، تحقیقات و فناوری
+وزارت فرهنگ و ارشاد اسلامی حقوقی,https://my.farhang.gov.ir/ssoHoghoghi,وزارت فرهنگ و ارشاد اسلامی
+وزارت فرهنگ و ارشاد اسلامی حقیقی,https://my.farhang.gov.ir/ssoHaghighi,وزارت فرهنگ و ارشاد اسلامی
+وزارت کشور,https://pwakeshvar.moi.ir/login,وزارت کشور
+وزارت ورزش و جوانان حقوقی,https://sso.msy.gov.ir/sso/company,وزارت ورزش و جوانان
+وزارت ورزش و جوانان حقیقی,https://sso.msy.gov.ir/sso,وزارت ورزش و جوانان
+شرکت ملی پست,https://my.post.ir/identity/sso,شرکت ملی پست جمهوری اسلامی ایران
+وزارت نیرو حقوقی,https://ekhedmat.moe.gov.ir/legal/redirect_url,وزارت نیرو
+سازمان آموزش فنی و حرفه‌ای کشور,https://portaltvto.com/sso,سازمان آموزش فنی و حرفه‌ای کشور
+صندوق رفاه دانشجویان,https://portal.srd.ir,صندوق رفاه دانشجویان وزارت بهداشت
+بانک توسعه تعاون,https://ttbank.ir/sso,بانک توسعه تعاون
+بانک قرض الحسنه مهر ایران,https://gov.qmb.ir/SSO,بانک قرض‌الحسنه مهر ایران
+بانک مسکن,https://ecounter.bank-maskan.ir/sso-natural,بانک مسکن
+سازمان بهزیستی,https://sam.behzisti.net/completeRegistration,سازمان بهزیستی
+سازمان ثبت اسناد و املاک کشور,https://my.ssaa.ir/portal,سازمان ثبت اسناد و املاک کشور
+وزارت کشاورزی حقوقی,https://sso.maj.ir/hoghoghi.aspx,وزارت جهاد کشاورزی
+سازمان نهضت سوادآموزی,http://eservices.lmo.gov.ir/,سازمان نهضت سوادآموزی
+خدمات قضایی من,https://my.adliran.ir/RealPerson/Index,قوه قضاییه
+شهرداری تهران,https://my.tehran.ir/singlewindow,شهرداری تهران
+آموزش و پرورش استثنایی کشور,https://sirat2.medu.ir/panel,وزارت آموزش و پرورش
+وزارت آموزش و پرورش,https://my.medu.ir/api/Login/callback,وزارت آموزش و پرورش
+سازمان ملی استاندارد ایران,https://my.inso.gov.ir/callback_actual,سازمان ملی استاندارد ایران
+سازمان ملی استاندارد ایران حقوقی,https://my.inso.gov.ir/callback_legal,سازمان ملی استاندارد ایران
+بانک مرکزی حقوقی,https://my.cbi.ir/ssoredirect/legal,بانک مرکزی جمهوری اسلامی ایران
+بانک مرکزی حقیقی,https://my.cbi.ir/Ssoredirect/person,بانک مرکزی جمهوری اسلامی ایران
+پژوهشگاه فضایی ایران حقوقی,https://es.isrc.ac.ir/ssolegalredirect,پژوهشگاه فضایی ایران
+پژوهشگاه فضایی ایران حقیقی,https://es.isrc.ac.ir/ssouserredirect,پژوهشگاه فضایی ایران
+شهرداری تنکابن,https://sso.tonekabon.ir/execute/login/ssogov,شهرداری تنکابن
+صندوق بازنشستگی کشوری,https://eservices.cspf.ir/Auth-api/auth/govsso,صندوق بازنشستگی کشوری
+سازمان بازرسی کل کشور,https://136.bazresi.ir/dargah/gov,سازمان بازرسی کل کشور
+سازمان امور مالیاتی حقوقی,https://my.tax.gov.ir/myiran/legalsso,سازمان امور مالیاتی کشور
+سازمان امور مالیاتی حقیقی,https://my.tax.gov.ir/myiran/sso,سازمان امور مالیاتی کشور
+درگاه ملی مجوزها حقوقی,https://mojavez.ir/api/1.0/g4bv2/nlp/auth/legal-sso-redirect-url,وزارت امور اقتصادی و دارایی (درگاه مجوزها)
+درگاه ملی مجوزها حقیقی,https://mojavez.ir/api/1.0/g4bv2/nlp/auth/sso-redirect-url,وزارت امور اقتصادی و دارایی (درگاه مجوزها)
+سامد ریاست جمهوری,https://portal.111.ir/portal/login-by-my-gov,ریاست جمهوری (سامد)
+سازمان ثبت اسناد و املاک کشور,https://my.ssaa.ir/usr/itologin,سازمان ثبت اسناد و املاک کشور
+جمعیت هلال احمر ایران,https://helaleman.rcs.ir/admin/receive_person,جمعیت هلال احمر جمهوری اسلامی ایران
+بانک توسعه صادرات ایران,https://ebank.edbi.ir/doris/sso,بانک توسعه صادرات ایران
+روزنامه رسمی جمهوری اسلامی ایران,https://www.rrk.ir/ords/rpsapi/gov/sso/redirecturl,روزنامه رسمی جمهوری اسلامی ایران
+روزنامه رسمی جمهوری اسلامی ایران حقوقی,https://www.rrk.ir/ords/rpsapi/gov/sso/legalredirecturl,روزنامه رسمی جمهوری اسلامی ایران
+سازمان اوقاف و امور خیریه,https://dina.oghaf.ir/sso/myiran/login,سازمان اوقاف و امور خیریه
+سازمان بهداشت و درمان صنعت نفت,https://www.piho.ir/fa/ssoredirecturlnatural,سازمان بهداشت و درمان صنعت نفت
+سازمان بیمه سلامت ایران,https://survey.ihio.gov.ir/govath,سازمان بیمه سلامت ایران
+سازمان تامین اجتماعی,https://account.tamin.ir/auth/login-client,سازمان تامین اجتماعی
+سازمان تبلیغات اسلامی,https://eservices.nehzat.ir,سازمان تبلیغات اسلامی
+سازمان تنظیم مقررات و ارتباطات رادیویی حقوقی,https://sso.cra.ir/myco,سازمان تنظیم مقررات و ارتباطات رادیویی
+سازمان تنظیم مقررات و ارتباطات رادیویی حقیقی,https://sso.cra.ir/my,سازمان تنظیم مقررات و ارتباطات رادیویی
+سازمان ثبت احوال کشور,https://sahim.sabteahval.ir/govCallback,سازمان ثبت احوال کشور
+سازمان زمین شناسی و اکتشافات معدنی کشور حقوقی,https://gsi.ir/ssolegal,سازمان زمین‌شناسی و اکتشافات معدنی کشور
+سازمان زمین شناسی و اکتشافات معدنی کشور حقیقی,https://gsi.ir/sso,سازمان زمین‌شناسی و اکتشافات معدنی کشور
+سازمان نظام مهندسی ساختمان حقوقی,https://ims.irceo.ir/api/Authentication/ICT/SSO/LRedirect,سازمان نظام مهندسی ساختمان
+سازمان نظام مهندسی ساختمان حقیقی,https://ims.irceo.ir/api/Authentication/ICT/SSO/PRedirect,سازمان نظام مهندسی ساختمان
+سازمان نقشه برداری کشور حقوقی,https://eshop.ncc.gov.ir/redirect-check-login-legal,سازمان نقشه‌برداری کشور
+سازمان نقشه برداری کشور حقیقی,https://eshop.ncc.gov.ir/redirect-check-login-true-person,سازمان نقشه‌برداری کشور
+سازمان هواشناسی کشور,https://data.irimo.ir/mygovsso.aspx,سازمان هواشناسی کشور
+شهرداری باغستان,http://137.baghestan.ir/,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری خمینی‌شهر,https://137.khomeinishahr.ir,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری خوی,https://137.khoy.ir/,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری دستجرد,https://dastjerd.137service.ir/,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری ساوه,https://137.saveh.ir/,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری سیرجان,https://137.sirjan.ir/,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری ایلام,http://137.ilam.ir/Master.aspx,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری بروجن,https://137.borujen.ir/,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری دلیجان,https://137.delijan.ir/,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری رامسر,https://137.ramsar.ir/,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری سنندج,http://137.sanandaj.ir/Master.aspx,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری ورامین,http://portal.evaramin.ir:2442/Master.aspx,شهرداری ورامین
+شهرداری کهک,https://137.kahak.ir/,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+سازمان فضایی ایران حقوقی,https://isa.ir/fa/page/54466.html?utype=2,سازمان فضایی ایران
+سازمان فضایی ایران حقیقی,https://isa.ir/fa/page/54466.html?utype=1,سازمان فضایی ایران
+سازمان بیمه سلامت ایران,https://Noskheh-d.ihio.gov.ir,سازمان بیمه سلامت ایران
+سازمان بیمه سلامت ایران,https://Noskheh-c.ihio.gov.ir,سازمان بیمه سلامت ایران
+سازمان اداری و استخدامی کشور,https://satam.aro.gov.ir/ssoito/login,سازمان اداری و استخدامی کشور
+سازمان بیمه سلامت ایران,https://fdp.ihio.gov.ir/ssoitoauth.aspx,سازمان بیمه سلامت ایران
+سامانه انتشار و دسترسی آزاد به اطلاعات,https://iranfoia.ir/sso-gov,دفتر هیئت دولت (دسترسی آزاد به اطلاعات)
+جهاد دانشگاهی,https://isba.ir/Default/redirecturl,جهاد دانشگاهی
+بنیاد شهید و امور ایثارگران,https://login.isaar.ir/sso/myiran/login,بنیاد شهید و امور ایثارگران
+سامانه ایران من,https://myiran.gov.ir/oidc/authenticate/,وزارت کشور (سامانه ایران من)
+جهاد دانشگاهی,https://exam.jde.ir/Account/loginfromsso,جهاد دانشگاهی
+جهاد دانشگاهی,https://jdrouyesh.ir/rooyesh/loginfromsso,جهاد دانشگاهی
+مرکز تحقیقات حلال ایران,https://ems.halal.ac.ir/ssologin.pc,مرکز ملی تحقیقات حلال ایران
+بانک کشاورزی,https://ib.bki.ir/pid184.lmx,بانک کشاورزی
+سازمان بهره برداران کشاورزی کشور حقوقی,https://sso.sabak.org/Account/RegisterAndLoginLegalUser,وزارت جهاد کشاورزی (سامانه بهره‌برداران کشاورزی)
+سازمان بهره برداران کشاورزی کشور حقیقی,https://sso.sabak.org/Account/RegisterAndLoginRealUser,وزارت جهاد کشاورزی (سامانه بهره‌برداران کشاورزی)
+سازمان بهینه سازی مصرف سوخت,https://behinyab.ir/auth/sso/gov/real,سازمان بهینه‌سازی مصرف سوخت کشور
+سازمان بهینه سازی مصرف سوخت حقوقی,https://behinyab.ir/auth/sso/gov/legal,سازمان بهینه‌سازی مصرف سوخت کشور
+شرکت سهامی بیمه ایران,https://sib.iraninsurance.ir/gov_auth,شرکت سهامی بیمه ایران
+مرکز تحقیقات حلال ایران,https://jh-per.halal.ac.ir/contacts,مرکز ملی تحقیقات حلال ایران
+مرکز تحقیقات حلال ایران,https://research.halal.ac.ir/sso/mygov/callback,مرکز ملی تحقیقات حلال ایران
+سامانه پنجره واحد زمین,https://zamin.gov.ir/,وزارت راه و شهرسازی (سامانه پنجره واحد زمین)
+سازمان تدارکات الکترونیکی دولت (ستاد ایران),https://sso2.setadiran.ir/portal/gov/login,سامانه تدارکات الکترونیکی دولت (ستاد ایران)
+وزارت امور اقتصادی و دارایی,https://tsh2.mefa.ir/loginsso,وزارت امور اقتصادی و دارایی
+سازمان امور اراضی کشور,https://laoi.ir//page-theme140103/fa/0/descList-contact/225-G-1,سازمان امور اراضی کشور
+پژوهشگاه علوم و فناوری اطلاعات ایران (ایرانداک),https://sabt.irandoc.ac.ir/,پژوهشگاه علوم و فناوری اطلاعات ایران (ایرانداک)
+مرکز ملی رقابت,https://www.nicc.gov.ir/index.php,مرکز ملی رقابت
+وزارت تعاون کار و رفاه اجتماعی حقوقی,http://eatba.mcls.gov.ir/mygov/legal,وزارت تعاون، کار و رفاه اجتماعی
+وزارت تعاون کار و رفاه اجتماعی حقیقی,http://eatba.mcls.gov.ir/mygov/real,وزارت تعاون، کار و رفاه اجتماعی
+سازمان امور دانشجویان,https://portal.saorg.ir/ssoredirect,سازمان امور دانشجویان
+سازمان توسعه تجارت ایران,https://sso.ntsw.ir/ntsw,سازمان توسعه تجارت ایران
+وزارت تعاون کار و رفاه اجتماعی حقوقی,https://tek.mcls.gov.ir/CompanyLogin,وزارت تعاون، کار و رفاه اجتماعی
+وزارت تعاون کار و رفاه اجتماعی حقیقی,https://tek.mcls.gov.ir/UserLogin,وزارت تعاون، کار و رفاه اجتماعی
+سازمان برنامه و بودجه,https://sajat.mporg.ir/Profiling/SSORedirectUrl1,سازمان برنامه و بودجه کشور
+سازمان تامین اجتماعی,https://refahi.ir/api//login,سازمان تامین اجتماعی
+وزارت تعاون کار و رفاه اجتماعی حقوقی,https://prkar.mcls.gov.ir/sso/org/redirecturl,وزارت تعاون، کار و رفاه اجتماعی
+وزارت تعاون کار و رفاه اجتماعی حقیقی,https://prkar.mcls.gov.ir/sso/person/redirecturl,وزارت تعاون، کار و رفاه اجتماعی
+سازمان حج و زیارت,https://kargozaran.haj.ir/Security/Login.aspx,سازمان حج و زیارت
+مرکز آموزش مدیریت دولتی,https://ltms.smtc.ac.ir/auth/sso-government/verify,مرکز آموزش مدیریت دولتی
+وزارت تعاون کار و رفاه اجتماعی,https://taavoni.mcls.gov.ir/sso-callback.php,وزارت تعاون، کار و رفاه اجتماعی
+وزارت تعاون کار و رفاه اجتماعی,https://hemayat.mcls.gov.ir/loginsso,وزارت تعاون، کار و رفاه اجتماعی
+شرکت ارتباطات زیرساخت حقوقی,https://sso.tic.ir/Account/Legal,شرکت ارتباطات زیرساخت
+شرکت ارتباطات زیرساخت حقیقی,https://sso.tic.ir/Account/Individual,شرکت ارتباطات زیرساخت
+شرکت خدمات هوایی و منطقه ویژه اقتصادی پیام حقوقی,https://pasc.ir/account/callback,شرکت خدمات هوایی و منطقه ویژه اقتصادی پیام
+شرکت خدمات هوایی و منطقه ویژه اقتصادی پیام حقیقی,https://pasc.ir/account/callback,شرکت خدمات هوایی و منطقه ویژه اقتصادی پیام
+شهرداری تبریز,https://citizen.tabriz.ir/moi,شهرداری تبریز
+شهرداری یزد,https://sso.yazd.ir/api/auth/gov/validate,شهرداری یزد
+گمرک جمهوری اسلامی ایران,https://help.irica.ir/oic/login,گمرک جمهوری اسلامی ایران
+شهرداری رودهن,https://khedmat.rudehen.ir/SSORedirecturl.aspx,شهرداری رودهن
+سازمان بیمه سلامت ایران,https://eservices.ihio.gov.ir/ecp/,سازمان بیمه سلامت ایران
+وزارت دادگستری,https://moj.gov.ir/fa/form/12/,وزارت دادگستری
+دهیاری استان یزد,https://dehyari.ostanyazd.ir/dehvand/,شهرداری یزد
+بنیاد مسکن انقلاب اسلامی,https://svs.bonyadmaskan.ir/sso,بنیاد مسکن انقلاب اسلامی
+سامد ریاست جمهوری,https://portal.111.ir/portal/login-by-my-gov,ریاست جمهوری (سامد)
+شهرداری شیراز,https://sarv.shiraz.ir/auth/sso/my-gov-ir,شهرداری شیراز
+شهرداری اهواز حقوقی,https://app.ahvaz.ir/login/gov/legal,شهرداری اهواز
+شهرداری اهواز حقیقی,https://app.ahvaz.ir/login/gov/individual,شهرداری اهواز
+شهرداری بندرعباس,http://my.bandarabbas.ir/ssomeli,شهرداری بندرعباس
+شهرداری خاکعلی,https://www.khakaliman.ir/,شهرداری خاکعلی
+شهرداری خمین,https://my.khomein.ir/,شهرداری خمین
+شهرداری خوانسار,https://sso.khansar.ir/execute/login/ssogov,شهرداری خوانسار
+شهرداری رودهن,https://137.rudehen.ir,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری سبزوار,https://sabzevar.ir/,شهرداری سبزوار
+شهرداری شهرکرد حقوقی,https://login.shahrekord.ir/external-idp/my-gov-sso-legal/oidc-redirect,شهرداری شهرکرد
+شهرداری شهرکرد حقیقی,https://login.shahrekord.ir//external-idp/my-gov-sso/oidc-redirect,شهرداری شهرکرد
+شهرداری شیراز,https://eshahr.shiraz.ir/ugp/site,شهرداری شیراز
+شهرداری قائم‌شهر,https://my.ghaemshahr.ir/,شهرداری قائم‌شهر
+شهرداری گرگان,https://sara10.gorgan.ir/citizen/,شهرداری گرگان
+شهرداری ملارد,https://my.malard.ir,شهرداری ملارد
+شهرداری میانه,https://em.miyaneh.ir/SSORedirecturl.aspx,شهرداری میانه
+شهرداری نجف آباد,https://sso.najafabad.ir//account/keshvarsso,شهرداری نجف‌آباد
+شهرداری نسیم شهر,https://my.nasimshahr.ir/,شهرداری نسیم‌شهر
+شهرداری نیشابور,https://auth.neyshabur.ir/login_back,شهرداری نیشابور
+شهرداری نیم‌ور,http://my.shahrdarinimvar.ir/,شهرداری نیم‌ور
+شهرداری ورامین,http://portal.evaramin.ir:3344/enrolingRequest,شهرداری ورامین
+شهرداری احمدآباد یزد,http://e.ahmadabad.ir:81/SSORedirecturl.aspx,شهرداری احمدآباد یزد
+شهرداری رشت,https://esup.rasht.ir/Api_Security/v2/auth/login-by-sso-keshvar,شهرداری رشت
+شهرداری سنندج,http://eshahr.sanandaj.ir/,شهرداری سنندج
+شهرداری زنجان,https://esup.zanjan.ir/citizen/,شهرداری زنجان
+شهرداری قزوین,https://account.qazvin.ir/sso/ssokeshvar_moi/login,شهرداری قزوین
+شهرداری کاشان,https://my.kashan.ir,شهرداری کاشان
+شهرداری گرگان,https://sara10.gorgan.ir/Api_Security/v2/auth/login-by-sso-keshvar,شهرداری گرگان
+شهرداری کهک,https://shahnood.kahak.ir/,شهرداری کهک
+وزارت تعاون کار و رفاه اجتماعی حقوقی,http://karyabi-mojavvez.mcls.gov.ir/HomePage_legal.aspx,وزارت تعاون، کار و رفاه اجتماعی
+وزارت تعاون کار و رفاه اجتماعی حقیقی,http://karyabi-mojavvez.mcls.gov.ir/HomePage.aspx,وزارت تعاون، کار و رفاه اجتماعی
+سازمان حمایت مصرف کنندگان و تولیدکنندگان,https://safa.cppo.ir,سازمان حمایت مصرف‌کنندگان و تولیدکنندگان
+سازمان نقشه برداری کشور حقوقی,https://geo.epishkhan.ir/redirect-check-login-legal,سازمان نقشه‌برداری کشور
+سازمان نقشه برداری کشور حقیقی,https://geo.epishkhan.ir/redirect-check-login-true-person,سازمان نقشه‌برداری کشور
+وزارت صنعت معدن و تجارت حقوقی,https://cadastre.mimt.gov.ir/SsoLogin_Legal.aspx,وزارت صنعت، معدن و تجارت
+وزارت صنعت معدن و تجارت حقیقی,https://cadastre.mimt.gov.ir/SsoLogin_Real.aspx,وزارت صنعت، معدن و تجارت
+سامانه پیام ایران (شرکت ملی پست),https://inbox.iran.gov.ir/MyIranLogin,شرکت ارتباطات زیرساخت (کارپوشه ملی)
+سامانه پیام ایران حقوقی,https://inbox.iran.gov.ir/MyIranLegalLogin,شرکت ارتباطات زیرساخت (کارپوشه ملی)
+کانون پرورش فکری کودکان و نوجوانان,https://sso.kpf.ir/auth/real,کانون پرورش فکری کودکان و نوجوانان
+کانون پرورش فکری کودکان و نوجوانان حقوقی,https://kpf.ir/legaluser,کانون پرورش فکری کودکان و نوجوانان
+شهرداری آبادان,http://137.abadan.ir/,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+سازمان اسناد و کتابخانه ملی ایران,https://chat.nlai.ir/,سازمان اسناد و کتابخانه ملی ایران
+مرکز ملی تحقیقات حلال ایران,https://halal.gov.ir/sso,مرکز ملی تحقیقات حلال ایران
+کارت هوشمند سوخت (شرکت پخش فرآورده‌های نفتی),https://fcs.niopdc.ir/Account/SSO,شرکت ملی پخش فرآورده‌های نفتی ایران
+مرکز تحقیقات حلال ایران,https://jhhhm.halal.ac.ir/contacts,مرکز ملی تحقیقات حلال ایران
+سامانه انتشار و دسترسی آزاد به اطلاعات حقوقی,https://iranfoia.ir/sso-gov-legal,دفتر هیئت دولت (دسترسی آزاد به اطلاعات)
+وزارت علوم تحقیقات و فناوری,https://codesehat.ir/user/oauth,وزارت علوم، تحقیقات و فناوری
+سازمان اسناد و کتابخانه ملی ایران,https://dl.nlai.ir/UI/SSO/RegisterExternalLogin.aspx,سازمان اسناد و کتابخانه ملی ایران
+شهرداری آبادان,http://1888.abadan.ir,شهرداری (نظارت و بازرسی شهری - وزارت کشور)
+شهرداری ملارد,https://1888.malard.ir/,شهرداری (نظارت و بازرسی شهری - وزارت کشور)
+استانداری یزد,https://nemad.ostanyazd.ir/auth/signin-moi,شهرداری یزد
+مرکز توسعه تجارت الکترونیکی (نماد اعتماد) حقوقی,https://reg.enamad.ir/panel/IndexLegalFromGOV,مرکز توسعه تجارت الکترونیکی (نماد اعتماد)
+مرکز توسعه تجارت الکترونیکی (نماد اعتماد) حقیقی,https://reg.enamad.ir/panel/IndexFromGOV,مرکز توسعه تجارت الکترونیکی (نماد اعتماد)
+سازمان انتقال خون ایران,https://nobatdehi.ibto.ir/api/ssologin,سازمان انتقال خون ایران
+انستیتو پاستور ایران,https://fa.pasteur.ac.ir/ssoinmygov,انستیتو پاستور ایران
+کمیته امداد امام خمینی,https://esfand9th.ir/sso/simple,کمیته امداد امام خمینی (ره)
+کمیته امداد امام خمینی حقوقی,https://esfand9th.ir/sso/legal,کمیته امداد امام خمینی (ره)
+شهرداری یزد,https://my.yazd.ir/,شهرداری یزد
+جهاد دانشگاهی,https://roytab.ir/Login/redirecturl,جهاد دانشگاهی
+سازمان انرژی اتمی ایران,https://nrpdsys.nrpd.ir/ords/rpsapi/gov/sso/redirecturl,سازمان انرژی اتمی ایران
+شهرداری دزفول,https://137.dezful.ir/Login.aspx,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری پاکدشت,https://pakdasht.137service.ir/,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+شهرداری ملارد,https://137.malard.ir/,شهرداری‌ها (سامانه ۱۳۷ - وزارت کشور)
+سازمان راهداری و حمل و نقل جاده‌ای,https://nnhk.ir/auth/sso/gov/real,سازمان راهداری و حمل و نقل جاده‌ای
+وزارت کشور (سامانه امید),https://omid.gov.ir/,وزارت کشور
+وزارت دادگستری,http://diye.moj.gov.ir/sso,وزارت دادگستری
+شرکت آزمایشگاه فنی و مکانیک خاک حقوقی,https://tsml.ir/sso/legal,شرکت آزمایشگاه فنی و مکانیک خاک
+شرکت آزمایشگاه فنی و مکانیک خاک حقیقی,https://tsml.ir/sso/person,شرکت آزمایشگاه فنی و مکانیک خاک
+شرکت شهر فرودگاهی امام خمینی حقوقی,https://sso.ikac.ir/auth/realms/sso/broker/oidc-legal/endpoint,شرکت شهر فرودگاهی امام خمینی (ره)
+شرکت شهر فرودگاهی امام خمینی حقیقی,https://sso.ikac.ir/auth/realms/sso/broker/oidc/endpoint,شرکت شهر فرودگاهی امام خمینی (ره)
+شهرداری احمدآباد مستوفی,https://eservice.ahmadabadmostofi.ir,شهرداری احمدآباد مستوفی
+شهرداری اراک,https://my.arak.ir/api/v1/oauth2/moi/redirect,شهرداری اراک
+شهرداری اردبیل,https://ardabilman.ir/login,شهرداری اردبیل
+شهرداری ارومیه,https://esup.urmia.ir/Citizen,شهرداری ارومیه
+شهرداری اصفهان,https://my.isfahan.ir/?aut=1,شهرداری اصفهان
+شهرداری اندیشه,https://my.andishehcity.ir/,شهرداری اندیشه
+شهرداری آمل,https://api.myamol.ir/api/WebApi/LoginToGOV,شهرداری آمل
+شهرداری بابل,https://sso.babol.ir/execute/login/ssogov,شهرداری بابل
+شهرداری بجنورد حقوقی,https://sso.bojnord.ir/auth/realms/sso/broker/oidc-legal/endpoint,شهرداری بجنورد
+شهرداری بجنورد حقیقی,https://sso.bojnord.ir/auth/realms/sso/broker/oidc/endpoint,شهرداری بجنورد
+شهرداری بروجرد,https://sso.borujerd.ir/execute/login/myiran,شهرداری بروجرد
+شهرداری بوشهر,https://esup.bushehr.ir/citizen,شهرداری بوشهر
+شهرداری بیرجند,https://birjand.ir/loginpanel,شهرداری بیرجند
+شهرداری تهران,https://shahrzadpwa.tehran.ir/api/v2/account/sso-page,شهرداری تهران
+شهرداری خرم آباد,https://esup.khorramabad.ir/citizen,شهرداری خرم‌آباد
+شهرداری درچه,https://my.dorcheh.ir/execute/login/myiran,شهرداری درچه
+شهرداری دلیجان,https://my.delijan.ir,شهرداری دلیجان
+شهرداری رباط کریم,https://my.robatkarim.ir/,شهرداری رباط‌کریم
+شهرداری رشت,https://my.rasht.ir/home/sso/redirectlogin,شهرداری رشت
+شهرداری زاهدان,https://sso.zahedan.ir/account/keshvarsso,شهرداری زاهدان
+شهرداری ساری,https://my.e-saricity.ir/sso/dolat,شهرداری ساری
+شهرداری سمنان,https://my.semnan.ir/User/GOV/Index,شهرداری سمنان
+شهرداری قم,https://account.qom.ir/sso/myiran/login,شهرداری قم
+شهرداری کرج,https://my.karaj.ir/fa/page/54466.html?utype=1,شهرداری کرج
+شهرداری کرج حقوقی,https://my.karaj.ir/fa/page/54466.html?utype=2,شهرداری کرج
+شهرداری کرمان,https://account.kerman.ir/sso/myiran/login,شهرداری کرمان
+شهرداری کرمانشاه,https://my.kermanshah.ir/api/v1/oauth2/moi/redirect,شهرداری کرمانشاه
+شهرداری گرمدره,https://mygarmdareh.ir/,شهرداری گرمدره
+شهرداری محلات,https://sso.mahallat.ir/execute/login/myiran,شهرداری محلات
+شهرداری همدان,https://esup.hamedan.ir/citizen/,شهرداری همدان
+شهرداری بجنورد,https://esup.bojnord.ir/security/v2/auth/login-by-sso-keshvar,شهرداری بجنورد
+شهرداری مشهد,https://sm.mashhad.ir/?gsb=true,شهرداری مشهد
+شهرداری تهران,https://my.tehran.ir/shahrzad,شهرداری تهران
+صندوق تامین خسارت‌های بدنی,https://eservice.biif.ir/contents/Return,صندوق تامین خسارت‌های بدنی
+صندوق توسعه صنایع دریایی حقوقی,https://imf.ir/fa/page/54466.html?utype=2,صندوق توسعه صنایع دریایی
+صندوق توسعه صنایع دریایی حقیقی,https://imf.ir/fa/page/54466.html?utype=1,صندوق توسعه صنایع دریایی
+صندوق رفاه دانشجویان وزارت بهداشت,https://my.srd.ir,صندوق رفاه دانشجویان وزارت بهداشت
+صندوق نوآوری و شکوفایی,https://www.inif.ir/,صندوق نوآوری و شکوفایی
+وزارت تعاون کار و رفاه اجتماعی حقوقی,https://smkh.mcls.gov.ir/ho-redirecturl,وزارت تعاون، کار و رفاه اجتماعی
+وزارت تعاون کار و رفاه اجتماعی حقیقی,https://smkh.mcls.gov.ir/redirecturl,وزارت تعاون، کار و رفاه اجتماعی
+سازمان اسناد و کتابخانه ملی ایران,https://bookshop.nlai.ir,سازمان اسناد و کتابخانه ملی ایران
+کانون انجمن‌های صنفی کارفرمایی خدماتی,https://kanonask.com/,کانون انجمن‌های صنفی کارفرمایی خدماتی
+کمیته امداد امام خمینی,https://soha.emdad.ir/mis/emdad/r/900/my-gov-login,کمیته امداد امام خمینی (ره)
+شرکت مخابرات ایران,https://my.tci.ir/api/v1/oauth/gov/callback,شرکت مخابرات ایران
+شرکت ملی گاز ایران,https://inspect.nigc.ir,شرکت ملی گاز ایران
+جهاد دانشگاهی,https://hrtc.ir/,جهاد دانشگاهی
+هما (شرکت هواپیمایی) حقوقی,https://homatraining.iranair.com/IdeaPortal/ISSO/2,شرکت هواپیمایی جمهوری اسلامی ایران (هما)
+هما (شرکت هواپیمایی) حقیقی,https://homatraining.iranair.com/IdeaPortal/ISSO/1,شرکت هواپیمایی جمهوری اسلامی ایران (هما)
+مرکز تحقیقات سیاست علمی کشور,https://my.nrisp.ac.ir/eservicesgov/,مرکز تحقیقات سیاست علمی کشور
+مرکز صدور گواهی الکترونیکی میانی عام,https://gica.ir/TotalCA/indexgov.aspx,مرکز صدور گواهی الکترونیکی میانی عام
+مرکز مدیریت حوزه‌های علمیه خواهران,https://ehraz.whc.ir/sso/myiran/validate,مرکز مدیریت حوزه‌های علمیه خواهران
+سازمان فناوری اطلاعات ایران,https://eservices.ito.gov.ir/Members/MyGovLoginRedirect,سازمان فناوری اطلاعات ایران
+سازمان فناوری اطلاعات ایران حقوقی,https://eservices.ito.gov.ir/members/MyGovCMPLogin,سازمان فناوری اطلاعات ایران
+سازمان تعزیرات حکومتی,https://desk.tazirat135.ir/dashboard,سازمان تعزیرات حکومتی
+سازمان تعزیرات حکومتی حقوقی,https://desk.tazirat135.ir/dashboardLegal,سازمان تعزیرات حکومتی
+شرکت راه‌آهن جمهوری اسلامی ایران,https://rtakrim.rai.ir/sso,شرکت راه‌آهن جمهوری اسلامی ایران
+شهرداری آبادان,http://my.abadan.ir,شهرداری آبادان
+شهرداری سنندج,https://sanandaj.ir/servdesk,شهرداری سنندج
+سازمان امور عشایر ایران,https://ashayer.ir/sso,سازمان امور عشایر ایران
+وزارت کشور,https://old.moi.ir/mizkhedmat/ssomoi_redirect,وزارت کشور
+شرکت بازآفرینی شهری ایران,https://facility.udrc.ir/login/request/myiran,شرکت بازآفرینی شهری ایران
+نهاد کتابخانه‌های عمومی کشور,https://sso.iranpl.ir,نهاد کتابخانه‌های عمومی کشور
+وزارت امور خارجه,https://mikhak.mfa.gov.ir/form/landing.xhtml,وزارت امور خارجه
+صندوق رفاه دانشجویان وزارت علوم,https://students.srd.ir,صندوق رفاه دانشجویان وزارت بهداشت
+دانشگاه اصفهان,https://ui.ac.ir,دانشگاه اصفهان
+دانشگاه الزهرا,https://alzahra.ac.ir,دانشگاه الزهرا
+دانشگاه پیام نور,https://pnu.ac.ir,دانشگاه پیام نور
+دانشگاه تهران,https://ut.ac.ir,دانشگاه تهران
+دانشگاه جامع امام حسین,https://ihu.ac.ir,دانشگاه جامع امام حسین
+دانشگاه جامع علمی کاربردی,https://uast.ac.ir,دانشگاه جامع علمی کاربردی
+دانشگاه شهید بهشتی,https://sbu.ac.ir,دانشگاه شهید بهشتی
+دانشگاه شیراز,https://shirazu.ac.ir,دانشگاه شیراز
+دانشگاه صداوسیما,https://iribu.ac.ir,دانشگاه صداوسیما
+دانشگاه صنعتی جندی شاپور,https://jsu.ac.ir,دانشگاه صنعتی جندی شاپور
+دانشگاه صنعتی اصفهان,https://iut.ac.ir,دانشگاه صنعتی اصفهان
+دانشگاه صنعتی امیرکبیر,https://aut.ac.ir,دانشگاه صنعتی امیرکبیر
+دانشگاه صنعتی خواجه نصیرالدین طوسی,https://kntu.ac.ir,دانشگاه صنعتی خواجه نصیرالدین طوسی
+دانشگاه صنعتی شریف,https://sharif.ir,دانشگاه صنعتی شریف
+دانشگاه علامه طباطبائی,https://atu.ac.ir,دانشگاه علامه طباطبائی
+دانشگاه علم و صنعت ایران,https://iust.ac.ir,دانشگاه علم و صنعت ایران
+دانشگاه فردوسی مشهد,https://um.ac.ir,دانشگاه فردوسی مشهد
+دانشگاه فرهنگیان,https://cfu.ac.ir,دانشگاه فرهنگیان
+دانشگاه شهید مطهری,https://motahari.ac.ir,دانشگاه شهید مطهری
+دانشگاه فرماندهی و ستاد آجا,https://casu.ac.ir,دانشگاه فرماندهی و ستاد آجا
+موسسه عالی آموزش و پژوهش مدیریت و برنامه ریزی,https://imps.ac.ir,موسسه عالی آموزش و پژوهش مدیریت و برنامه ریزی
+دانشگاه تربیت دبیر شهید رجایی,https://srttu.edu,دانشگاه تربیت دبیر شهید رجایی
+دانشگاه جامع انقلاب اسلامی,https://edu.cuir.ac.ir,دانشگاه جامع انقلاب اسلامی
+دانشگاه اردکان,https://my.ardakan.ac.ir,دانشگاه اردکان
+دانشگاه بزرگمهر قائنات,https://puya.buqaen.ac.ir,دانشگاه بزرگمهر قائنات
+دانشگاه رازی کرمانشاه,https://sso.razi.ac.ir,دانشگاه رازی کرمانشاه
+دانشگاه شهرکرد,https://sess.sku.ac.ir,دانشگاه شهرکرد
+دانشگاه بیرجند,https://khedmat.birjand.ac.ir,دانشگاه بیرجند
+دانشگاه هنر تهران,https://edu.art.ac.ir,دانشگاه هنر تهران
+دانشگاه شهید باهنر کرمان,https://elearn.uk.ac.ir,دانشگاه شهید باهنر کرمان
+دانشگاه صنعتی سیرجان,https://pooya.sirjantech.ac.ir,دانشگاه صنعتی سیرجان
+موسسه آموزشی و پژوهشی امام خمینی,https://golestan.ikiu.ac.ir,موسسه آموزشی و پژوهشی امام خمینی
+دانشگاه اراک,https://golestan.araku.ac.ir,دانشگاه اراک
+دانشگاه سیدجمال الدین اسدآبادی,https://sso.sjau.ac.ir,دانشگاه سیدجمال الدین اسدآبادی
+دانشگاه هنر اصفهان,https://edu.aui.ac.ir,دانشگاه هنر اصفهان
+دانشگاه صنعتی نوشیروانی بابل,https://golestan.nit.ac.ir,دانشگاه صنعتی نوشیروانی بابل
+دانشگاه صنعتی ارومیه,https://edu.uut.ac.ir,دانشگاه صنعتی ارومیه
+دانشگاه صنعتی خاتم الانبیا بهبهان,https://golestan.bkatu.ac.ir,دانشگاه صنعتی خاتم الانبیا بهبهان
+دانشگاه فسا,https://pershiess.fasau.ac.ir,دانشگاه فسا
+دانشگاه گیلان,https://sada.guilan.ac.ir,دانشگاه گیلان
+دانشگاه صنعتی شیراز,https://sutech.ac.ir,دانشگاه صنعتی شیراز
+دانشگاه هنر شیراز,https://shirazartu.ac.ir,دانشگاه هنر شیراز
+دانشگاه صنعتی شاهرود,https://shahroodut.ac.ir,دانشگاه صنعتی شاهرود
+دانشگاه علوم پزشکی سراب,https://sarabums.ac.ir,دانشگاه علوم پزشکی سراب
+دانشگاه علوم پزشکی مراغه,https://mrgums.ac.ir,دانشگاه علوم پزشکی مراغه
+دانشگاه علوم پزشکی تبریز,https://tbzmed.ac.ir,دانشگاه علوم پزشکی تبریز
+دانشگاه علوم پزشکی خوی,https://khoyums.ac.ir,دانشگاه علوم پزشکی خوی
+دانشگاه علوم پزشکی ارومیه,https://umsu.ac.ir,دانشگاه علوم پزشکی ارومیه
+دانشگاه علوم پزشکی خلخال,https://khalums.ac.ir,دانشگاه علوم پزشکی خلخال
+دانشگاه علوم پزشکی اردبیل,https://arums.ac.ir,دانشگاه علوم پزشکی اردبیل
+دانشگاه علوم پزشکی کاشان,https://kaums.ac.ir,دانشگاه علوم پزشکی کاشان
+دانشگاه علوم پزشکی اصفهان,https://mui.ac.ir,دانشگاه علوم پزشکی اصفهان
+دانشگاه علوم پزشکی ایلام,https://medilam.ac.ir,دانشگاه علوم پزشکی ایلام
+دانشگاه علوم پزشکی بوشهر,https://bpums.ac.ir,دانشگاه علوم پزشکی بوشهر
+دانشگاه علوم پزشکی هوشمند,https://smums.ac.ir,دانشگاه علوم پزشکی هوشمند
+دانشگاه علوم توانبخشی و سلامت اجتماعی,https://uswr.ac.ir,دانشگاه علوم توانبخشی و سلامت اجتماعی
+دانشگاه علوم پزشکی شهید بهشتی,https://sbmu.ac.ir,دانشگاه علوم پزشکی شهید بهشتی
+دانشگاه علوم پزشکی ایران,https://iums.ac.ir,دانشگاه علوم پزشکی ایران
+دانشگاه علوم پزشکی تهران,https://tums.ac.ir,دانشگاه علوم پزشکی تهران
+دانشگاه علوم پزشکی شهرکرد,https://skums.ac.ir,دانشگاه علوم پزشکی شهرکرد
+دانشگاه علوم پزشکی بیرجند,https://bums.ac.ir,دانشگاه علوم پزشکی بیرجند
+دانشگاه علوم پزشکی تربت جام,https://trjums.ac.ir,دانشگاه علوم پزشکی تربت جام
+دانشگاه علوم پزشکی نیشابور,https://nums.ac.ir,دانشگاه علوم پزشکی نیشابور
+دانشگاه علوم پزشکی گناباد,https://gmu.ac.ir,دانشگاه علوم پزشکی گناباد
+دانشگاه علوم پزشکی سبزوار,https://medsab.ac.ir,دانشگاه علوم پزشکی سبزوار
+دانشگاه علوم پزشکی تربت حیدریه,https://thums.ac.ir,دانشگاه علوم پزشکی تربت حیدریه
+دانشگاه علوم پزشکی مشهد,https://mums.ac.ir,دانشگاه علوم پزشکی مشهد
+دانشگاه علوم پزشکی بجنورد,https://nkums.ac.ir,دانشگاه علوم پزشکی بجنورد
+دانشگاه علوم پزشکی اسفراین,https://esfrums.ac.ir,دانشگاه علوم پزشکی اسفراین
+دانشگاه علوم پزشکی شوشتر,https://shoushtarums.ac.ir,دانشگاه علوم پزشکی شوشتر
+دانشگاه علوم پزشکی بهبهان,https://behums.ac.ir,دانشگاه علوم پزشکی بهبهان
+دانشگاه علوم پزشکی آبادان,https://abadanums.ac.ir,دانشگاه علوم پزشکی آبادان
+دانشگاه علوم پزشکی دزفول,https://dums.ac.ir,دانشگاه علوم پزشکی دزفول
+دانشگاه علوم پزشکی جندی شاپور اهواز,https://ajums.ac.ir,دانشگاه علوم پزشکی جندی شاپور اهواز
+دانشگاه علوم پزشکی زنجان,https://zums.ac.ir,دانشگاه علوم پزشکی زنجان
+دانشگاه علوم پزشکی شاهرود,https://shmu.ac.ir,دانشگاه علوم پزشکی شاهرود
+دانشگاه علوم پزشکی سمنان,https://semums.ac.ir,دانشگاه علوم پزشکی سمنان
+دانشگاه علوم پزشکی زابل,https://zbmu.ac.ir,دانشگاه علوم پزشکی زابل
+دانشگاه علوم پزشکی ایرانشهر,https://irshums.ac.ir,دانشگاه علوم پزشکی ایرانشهر
+دانشگاه علوم پزشکی زاهدان,https://zaums.ac.ir,دانشگاه علوم پزشکی زاهدان
+دانشگاه علوم پزشکی گراش,https://gerums.ac.ir,دانشگاه علوم پزشکی گراش
+دانشگاه علوم پزشکی لارستان,https://larums.ac.ir,دانشگاه علوم پزشکی لارستان
+دانشگاه علوم پزشکی جهرم,https://jums.ac.ir,دانشگاه علوم پزشکی جهرم
+دانشگاه علوم پزشکی فسا,https://fums.ac.ir,دانشگاه علوم پزشکی فسا
+دانشگاه علوم پزشکی شیراز,https://sums.ac.ir,دانشگاه علوم پزشکی شیراز
+دانشگاه علوم پزشکی قزوین,https://qums.ac.ir,دانشگاه علوم پزشکی قزوین
+دانشگاه علوم پزشکی قم,https://muq.ac.ir,دانشگاه علوم پزشکی قم
+دانشگاه علوم پزشکی کردستان,https://muk.ac.ir,دانشگاه علوم پزشکی کردستان
+دانشگاه علوم پزشکی رفسنجان,https://rums.ac.ir,دانشگاه علوم پزشکی رفسنجان
+دانشگاه علوم پزشکی کرمان,https://kmu.ac.ir,دانشگاه علوم پزشکی کرمان
+دانشگاه علوم پزشکی جیرفت,https://jmu.ac.ir,دانشگاه علوم پزشکی جیرفت
+دانشگاه علوم پزشکی بم,https://mubam.ac.ir,دانشگاه علوم پزشکی بم
+دانشگاه علوم پزشکی سیرجان,https://sirums.ac.ir,دانشگاه علوم پزشکی سیرجان
+دانشگاه علوم پزشکی کرمانشاه,https://kums.ac.ir,دانشگاه علوم پزشکی کرمانشاه
+دانشگاه علوم پزشکی یاسوج,https://yums.ac.ir,دانشگاه علوم پزشکی یاسوج
+دانشگاه علوم پزشکی گلستان,https://goums.ac.ir,دانشگاه علوم پزشکی گلستان
+دانشگاه علوم پزشکی گیلان,https://gums.ac.ir,دانشگاه علوم پزشکی گیلان
+دانشگاه علوم پزشکی لرستان,https://lums.ac.ir,دانشگاه علوم پزشکی لرستان
+دانشگاه علوم پزشکی بابل,https://mubabol.ac.ir,دانشگاه علوم پزشکی بابل
+دانشگاه علوم پزشکی مازندران,https://mazums.ac.ir,دانشگاه علوم پزشکی مازندران
+دانشگاه علوم پزشکی خمین,https://khomeinums.ac.ir,دانشگاه علوم پزشکی خمین
+دانشگاه علوم پزشکی ساوه,https://savehums.ac.ir,دانشگاه علوم پزشکی ساوه
+دانشگاه علوم پزشکی اراک,https://arakmu.ac.ir,دانشگاه علوم پزشکی کرمان
+دانشگاه علوم پزشکی بندرعباس,https://hums.ac.ir,دانشگاه علوم پزشکی بندرعباس
+دانشگاه علوم پزشکی اسدآباد,https://asaums.ac.ir,دانشگاه علوم پزشکی اسدآباد
+دانشگاه علوم پزشکی همدان,https://umsha.ac.ir,دانشگاه علوم پزشکی همدان
+دانشگاه علوم پزشکی یزد,https://ssu.ac.ir,دانشگاه علوم پزشکی یزد
+بانک ملی ایران,https://bmi.ir,بانک ملی ایران
+پست بانک,https://postbank.ir,پست بانک ایران
+بانک سپه,https://banksepah.ir,بانک سپه
+بانک کشاورزی,https://bki.ir,بانک کشاورزی
+بانک مسکن,https://bank-maskan.ir,بانک مسکن
+بانک مرکزی جمهوری اسلامی ایران,https://cbi.ir,بانک مرکزی جمهوری اسلامی ایران
+بانک ملت,https://bankmellat.ir,بانک ملت
+بانک صادرات,https://bsi.ir,بانک صادرات ایران
+بانک رفاه,https://refah-bank.ir,بانک رفاه کارگران
+بانک ملی ایران,https://baam.bmi.ir,بانک ملی ایران
+بانک ملت,https://mobile.bankmellat.ir,بانک ملت
+بانک سپه,https://banksepah.ir,بانک سپه
+بانک کشاورزی,https://bki.ir,بانک کشاورزی
+بانک صادرات,https://apps.bsi.ir,بانک صادرات ایران
+بانک ملت (سکه),https://sekeh.behpardakht.ir,بانک ملت
+بانک تجارت,https://tejaratbank.ir,بانک تجارت
+بنیاد شهید و امور ایثارگران,https://isaar.ir,بنیاد شهید و امور ایثارگران
+بنیاد مسکن انقلاب اسلامی,https://bonyadmaskan.ir,بنیاد مسکن انقلاب اسلامی
+بنیاد ملی نخبگان,https://bmn.ir,بنیاد ملی نخبگان
+سازمان اداری و استخدامی کشور,https://aro.gov.ir,سازمان اداری و استخدامی کشور
+مرکز آموزش مدیریت دولتی,https://smtc.ac.ir,مرکز آموزش مدیریت دولتی
+سازمان ملی بهره وری ایران,https://npo.gov.ir,سازمان ملی بهره‌وری ایران
+جهاد دانشگاهی,https://acecr.ac.ir,جهاد دانشگاهی
+سازمان ملی استاندارد ایران,https://inso.gov.ir,سازمان ملی استاندارد ایران
+سازمان حفاظت محیط‌زیست,https://doe.ir,سازمان حفاظت محیط زیست
+سازمان اسناد و کتابخانه ملی ایران,https://nlai.ir,سازمان اسناد و کتابخانه ملی ایران
+سازمان انرژی اتمی ایران,https://nrpdsys.nrpd.ir,سازمان انرژی اتمی ایران
+سازمان برنامه و بودجه کشور,https://mporg.ir,سازمان برنامه و بودجه کشور
+سازمان نقشه برداری کشور,https://ncc.gov.ir,سازمان نقشه‌برداری کشور
+سازمان هدفمندسازی یارانه‌ها,https://hadafmandi.ir,سازمان هدفمندسازی یارانه‌ها
+مرکز آمار ایران,https://amar.org.ir,مرکز آمار ایران
+سازمان تبلیغات اسلامی,https://nehzat.ir,سازمان تبلیغات اسلامی
+فراجا,https://vazifeh.police.ir/,فراجا
+روزنامه رسمی جمهوری اسلامی ایران,https://rrk.ir,روزنامه رسمی جمهوری اسلامی ایران
+سازمان ثبت اسناد و املاک کشور,https://ssaa.ir,سازمان ثبت اسناد و املاک کشور
+سازمان بازرسی کل کشور,https://bazresi.ir,سازمان بازرسی کل کشور
+قوه قضاییه,https://eadl.ir,قوه قضاییه
+وزارت دادگستری,https://moj.gov.ir,وزارت دادگستری
+سازمان تعزیرات حکومتی,https://tazirat.gov.ir,سازمان تعزیرات حکومتی
+سازمان هواپیمایی کشوری,https://caa.gov.ir,سازمان هواپیمایی کشوری
+سازمان بنادر و دریانوردی,https://pmo.ir,سازمان بنادر و دریانوردی
+سازمان هواشناسی کشور,https://irimo.ir,سازمان هواشناسی کشور
+سازمان راهداری و حمل و نقل جاده‌ای,https://rmto.ir,سازمان راهداری و حمل و نقل جاده‌ای
+شرکت شهر فرودگاهی امام خمینی,https://ikac.ir,شرکت شهر فرودگاهی امام خمینی (ره)
+شرکت آزمایشگاه فنی و مکانیک خاک,https://tsml.ir,شرکت آزمایشگاه فنی و مکانیک خاک
+شرکت عمران شهرهای جدید,https://ntdc.ir,شرکت مادرتخصصی عمران شهرهای جدید
+شرکت هواپیمایی جمهوری اسلامی ایران (هما),https://iranair.com,شرکت هواپیمایی جمهوری اسلامی ایران (هما)
+وزارت راه و شهرسازی,https://mrud.ir,وزارت راه و شهرسازی
+شرکت راه‌آهن جمهوری اسلامی ایران,https://rai.ir,شرکت راه‌آهن جمهوری اسلامی ایران
+شرکت بازآفرینی شهری ایران,https://udrc.ir,شرکت بازآفرینی شهری ایران
+مرکز تحقیقات راه مسکن و شهرسازی,https://bhrc.ac.ir,مرکز تحقیقات راه، مسکن و شهرسازی
+سازمان نظام مهندسی ساختمان,https://irceo.ir,سازمان نظام مهندسی ساختمان
+صندوق بازنشستگی کشوری,https://cspf.ir,صندوق بازنشستگی کشوری
+سازمان بهزیستی کشور,https://behzisti.ir,معاونت علمی و فناوری ریاست جمهوری
+سازمان آموزش فنی و حرفه‌ای کشور,https://irantvto.ir,سازمان آموزش فنی و حرفه‌ای کشور
+سازمان تامین اجتماعی,https://tamin.ir,سازمان تامین اجتماعی
+وزارت تعاون کار و رفاه اجتماعی,https://mcls.gov.ir,وزارت تعاون، کار و رفاه اجتماعی
+وزارت جهاد کشاورزی,https://maj.ir,وزارت جهاد کشاورزی
+صندوق بیمه محصولات کشاورزی,https://sbkiran.ir,صندوق بیمه محصولات کشاورزی
+سازمان امور عشایر ایران,https://ashayer.ir,سازمان امور عشایر ایران
+سازمان امور اراضی کشور,https://laoi.ir,سازمان امور اراضی کشور
+سازمان چای کشور,https://irantea.org,سازمان چای کشور
+سازمان تحقیقات آموزش و ترویج کشاورزی,https://areeo.ac.ir,سازمان تحقیقات، آموزش و ترویج کشاورزی
+سازمان تعاون روستایی کشور,https://corc.ir,سازمان تعاون روستایی کشور
+سازمان شیلات ایران,https://shilat.com,سازمان شیلات ایران
+سازمان دامپزشکی کشور,https://ivo.ir,سازمان دامپزشکی کشور
+سازمان حفظ نباتات کشور,https://ppo.ir,سازمان حفظ نباتات کشور
+شرکت خدمات کشاورزی,https://agriserv.ir,شرکت خدمات کشاورزی
+سازمان منابع طبیعی و آبخیزداری کشور,https://frw.ir,سازمان منابع طبیعی و آبخیزداری کشور
+شرکت پشتیبانی امور دام کشور,https://iranslal.com,شرکت پشتیبانی امور دام کشور
+شرکت بازرگانی دولتی ایران,https://gtc.ir,شرکت بازرگانی دولتی ایران
+شرکت خدمات حمایتی کشاورزی,https://assc.ir,شرکت خدمات حمایتی کشاورزی
+سازمان امور مالیاتی کشور,https://tax.gov.ir,سازمان امور مالیاتی کشور
+سازمان بورس و اوراق بهادار,https://seo.ir,سازمان بورس و اوراق بهادار
+سازمان خصوصی سازی کشور,https://ipo.ir,سازمان خصوصی‌سازی کشور
+شرکت سهامی بیمه ایران,https://iraninsurance.ir,شرکت سهامی بیمه ایران
+بیمه مرکزی جمهوری اسلامی ایران,https://centinsur.ir,بیمه مرکزی جمهوری اسلامی ایران
+گمرک جمهوری اسلامی ایران,https://irica.ir,گمرک جمهوری اسلامی ایران
+وزارت امور اقتصادی و دارایی,https://mefa.ir,وزارت امور اقتصادی و دارایی
+صندوق تامین خسارت‌های بدنی,https://biif.ir,صندوق تامین خسارت‌های بدنی
+کانون پرورش فکری کودکان و نوجوانان,https://kpf.ir,کانون پرورش فکری کودکان و نوجوانان
+سازمان آموزش و پرورش استثنائی کشور,https://medu.gov.ir,وزارت آموزش و پرورش
+سازمان نهضت سوادآموزی,https://lmo.gov.ir,سازمان نهضت سوادآموزی
+سازمان حج و زیارت,https://haj.ir,سازمان حج و زیارت
+سازمان اوقاف و امور خیریه,https://oghaf.ir,سازمان اوقاف و امور خیریه
+وزارت فرهنگ و ارشاد اسلامی,https://farhang.gov.ir,وزارت فرهنگ و ارشاد اسلامی
+نهاد کتابخانه‌های عمومی کشور,https://iranpl.ir,نهاد کتابخانه‌های عمومی کشور
+وزارت بهداشت درمان و آموزش پزشکی,https://behdasht.gov.ir,وزارت بهداشت، درمان و آموزش پزشکی
+انستیتو پاستور ایران,https://fa.pasteur.ac.ir,انستیتو پاستور ایران
+سازمان اورژانس کشور,https://115.ir,سازمان اورژانس کشور
+سازمان انتقال خون ایران,https://ibto.ir,سازمان انتقال خون ایران
+سازمان غذا و دارو,https://fda.gov.ir,سازمان غذا و دارو
+مرکز تحقیقات حلال ایران,https://research.halal.ac.ir,مرکز ملی تحقیقات حلال ایران
+صندوق رفاه دانشجویان وزارت بهداشت,https://srd.ir,صندوق رفاه دانشجویان وزارت بهداشت
+سازمان بیمه سلامت ایران,https://ihio.gov.ir,سازمان بیمه سلامت ایران
+معاونت علمی و اقتصاد دانش بنیان ریاست جمهوری,https://president.ir,ریاست جمهوری
+مرکز ملی رقابت,https://nicc.gov.ir,مرکز ملی رقابت
+شرکت توانیر,https://tavanir.org.ir,شرکت توانیر
+سازمان انرژی‌های تجدیدپذیر و بهره‌وری انرژی برق (ساتبا),https://satba.gov.ir,سازمان انرژی‌های تجدیدپذیر و بهره‌وری انرژی برق (ساتبا)
+شرکت مدیریت منابع آب ایران,https://wrm.ir,شرکت مدیریت منابع آب ایران
+شرکت مهندسی آب و فاضلاب کشور,https://moe.gov.ir,وزارت نیرو
+کمیته امداد امام خمینی,https://emdad.ir,کمیته امداد امام خمینی (ره)
+وزارت امور خارجه,https://mfa.gov.ir,وزارت امور خارجه
+شرکت ارتباطات زیرساخت,https://tic.ir,شرکت ارتباطات زیرساخت
+شرکت ملی پست جمهوری اسلامی ایران,https://post.ir,شرکت ملی پست جمهوری اسلامی ایران
+وزارت ارتباطات و فناوری اطلاعات,https://ict.gov.ir,وزارت ارتباطات و فناوری اطلاعات
+شرکت خدمات هوایی و منطقه ویژه اقتصادی پیام,https://pasc.ir,شرکت خدمات هوایی و منطقه ویژه اقتصادی پیام
+سازمان فناوری اطلاعات ایران,https://ito.gov.ir,سازمان فناوری اطلاعات ایران
+سازمان فضایی ایران,https://isa.ir,سازمان فضایی ایران
+پژوهشگاه فضایی ایران,https://es.isrc.ac.ir,پژوهشگاه فضایی ایران
+سازمان تنظیم مقررات و ارتباطات رادیویی,https://cra.ir,سازمان تنظیم مقررات و ارتباطات رادیویی
+پژوهشگاه ارتباطات و فناوری اطلاعات,https://itrc.ac.ir,پژوهشگاه ارتباطات و فناوری اطلاعات
+وزارت میراث فرهنگی صنایع دستی و گردشگری,https://mcth.ir,وزارت میراث فرهنگی، گردشگری و صنایع دستی
+سازمان مناطق آزاد,https://freezones.ir,سازمان مناطق آزاد
+صندوق توسعه صنایع دریایی,https://imf.ir,صندوق توسعه صنایع دریایی
+سازمان صنایع کوچک و شهرک‌های صنعتی ایران,https://isipo.ir,سازمان صنایع کوچک و شهرک‌های صنعتی ایران
+سازمان زمین‌شناسی و اکتشافات معدنی کشور,https://gsi.ir,سازمان زمین‌شناسی و اکتشافات معدنی کشور
+صندوق ضمانت سرمایه‌گذاری صنایع کوچک,https://zemanat.sif.ir,صندوق ضمانت سرمایه‌گذاری صنایع کوچک
+سازمان توسعه و نوسازی معادن و صنایع معدنی (ایمیدرو),https://idea.imidro.gov.ir,سازمان توسعه و نوسازی معادن و صنایع معدنی ایران (ایمیدرو)
+سازمان حمایت مصرف‌کنندگان و تولیدکنندگان,https://cppo.ir,سازمان حمایت مصرف‌کنندگان و تولیدکنندگان
+مرکز توسعه تجارت الکترونیکی,https://sw.ecommerce.gov.ir,مرکز توسعه تجارت الکترونیکی
+وزارت صنعت معدن و تجارت,https://mimt.gov.ir,وزارت صنعت، معدن و تجارت
+صندوق ضمانت صادرات ایران,https://egfi.ir,صندوق ضمانت صادرات ایران
+شرکت سهامی نمایشگاه‌های بین‌المللی ایران,https://iranfair.com,شرکت سهامی نمایشگاه‌های بین‌المللی ایران
+سازمان ثبت احوال کشور,https://sahim.sabteahval.ir,سازمان ثبت احوال کشور
+وزارت کشور,https://moi.ir,وزارت کشور
+شرکت ملی صنایع پتروشیمی,https://nipc.ir,شرکت ملی صنایع پتروشیمی
+وزارت نفت,https://mop.ir,وزارت نفت
+پژوهشگاه صنعت نفت,https://ripi.ir,پژوهشگاه صنعت نفت
+شرکت ملی پخش فرآورده‌های نفتی ایران,https://niopdc.ir,شرکت ملی پخش فرآورده‌های نفتی ایران
+شرکت ملی پالایش و پخش فرآورده‌های نفتی,https://niordc.ir,شرکت ملی پالایش و پخش فرآورده‌های نفتی
+شرکت ملی گاز ایران,https://nigc.ir,شرکت ملی گاز ایران
+جمعیت هلال احمر جمهوری اسلامی ایران,https://rcs.ir,جمعیت هلال احمر جمهوری اسلامی ایران
+سازمان پژوهش‌های علمی و صنعتی ایران,https://irost.org,سازمان پژوهش‌های علمی و صنعتی ایران
+مرکز تحقیقات سیاست علمی کشور,https://nrisp.ac.ir,مرکز تحقیقات سیاست علمی کشور
+سازمان سنجش آموزش کشور,https://sanjesh.org,سازمان سنجش آموزش کشور
+پژوهشگاه علوم و فناوری اطلاعات ایران (ایرانداک),https://irandoc.ac.ir,پژوهشگاه علوم و فناوری اطلاعات ایران (ایرانداک)
+وزارت علوم تحقیقات و فناوری,https://msrt.ir,وزارت علوم، تحقیقات و فناوری
+صندوق رفاه دانشجویان وزارت علوم,https://swf.ir,صندوق رفاه دانشجویان وزارت علوم
+سازمان امور دانشجویان,https://saorg.ir,سازمان امور دانشجویان
+موزه علم و فناوری ایران,https://inmost.ir,موزه علم و فناوری ایران
+وزارت ورزش و جوانان,https://msy.gov.ir,وزارت ورزش و جوانان
+سازمان نظام پزشکی کشور,https://irimc.org,سازمان نظام پزشکی کشور
+سامانه مدیریت سوخت اصناف کشور,https://sookht.iranianasnaf.ir,اتاق اصناف ایران
