@@ -1,3 +1,15 @@
+-- create database if it doesn't exist...
+
+USE [master];
+GO
+
+IF NOT EXISTS (SELECT name FROM sys.databases WHERE name = N'services')
+BEGIN
+    CREATE DATABASE [services];
+END
+GO
+
+
 USE [services]
 GO
 /****** Object:  Table [dbo].[Contacts]    Script Date: 13/04/1405 12:25:01 ب.ظ ******/
